@@ -3,6 +3,11 @@ A fork of [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) with 
 
 You will need to install the `persistence.nvim` first to make sure it works.
 
+Installation:
+```
+set -g @plugin 'albetnov/tmux-resurrect-persistence'
+```
+
 # Tmux Resurrect
 [![Build Status](https://travis-ci.org/tmux-plugins/tmux-resurrect.svg?branch=master)](https://travis-ci.org/tmux-plugins/tmux-resurrect)
 
