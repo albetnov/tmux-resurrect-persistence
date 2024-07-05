@@ -1,5 +1,9 @@
-# Tmux Resurrect
+# Tmux Resurrect Persistence
+A fork of [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) with support for [persistence.nvim](https://github.com/folke/persistence.nvim).
 
+You will need to install the `persistence.nvim` first to make sure it works.
+
+# Tmux Resurrect
 [![Build Status](https://travis-ci.org/tmux-plugins/tmux-resurrect.svg?branch=master)](https://travis-ci.org/tmux-plugins/tmux-resurrect)
 
 Restore `tmux` environment after system restart.
